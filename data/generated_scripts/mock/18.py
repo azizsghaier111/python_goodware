@@ -1,0 +1,1 @@
+mock_image_processor.process_image.return_value = await AsyncMock(return_value='processed')

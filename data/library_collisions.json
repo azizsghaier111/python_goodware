@@ -1,0 +1,307 @@
+{
+    "mock": [
+        "pytest",
+        "Pillow",
+        "pillow"
+    ],
+    "pytorch_lightning": [
+        "omegaconf",
+        "transformers",
+        "mock"
+    ],
+    "numpy": [
+        "pandas",
+        "matplotlib",
+        "keras"
+    ],
+    "psutil": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "flake8": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "hypothesis": [
+        "lark",
+        "pytest",
+        "networkx"
+    ],
+    "pyyaml": [
+        "tweepy",
+        "mock",
+        "pytorch_lightning"
+    ],
+    "twine": [
+        "setuptools",
+        "mock",
+        "pytorch_lightning"
+    ],
+    "fsspec": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "packaging": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "xgboost": [
+        "pandas",
+        "statsmodels",
+        "numpy"
+    ],
+    "filelock": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "omegaconf": [
+        "pytorch_lightning",
+        "mock",
+        "numpy"
+    ],
+    "transformers": [
+        "torch",
+        "keras",
+        "pytorch_lightning"
+    ],
+    "pypandoc": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "einops": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "pandas": [
+        "numpy",
+        "matplotlib",
+        "xgboost"
+    ],
+    "jinja2": [
+        "mkdocs",
+        "lxml",
+        "mock"
+    ],
+    "jsonmerge": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "piexif": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "pexpect": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "wheel": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "tweepy": [
+        "networkx",
+        "pyyaml",
+        "pandas"
+    ],
+    "torchsde": [
+        "torch",
+        "mock",
+        "pytorch_lightning"
+    ],
+    "inflection": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "fake_useragent": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "beautifulsoup4": [
+        "lxml",
+        "Pillow",
+        "pillow"
+    ],
+    "fastapi": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "blendmodes": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "Pillow": [
+        "pillow",
+        "mock",
+        "beautifulsoup4"
+    ],
+    "matplotlib": [
+        "pandas",
+        "numpy",
+        "networkx"
+    ],
+    "tomesd": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "typing_extensions": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "mkdocs": [
+        "jinja2",
+        "mock",
+        "pytorch_lightning"
+    ],
+    "accelerate": [
+        "transformers",
+        "tensorflow",
+        "mock"
+    ],
+    "rich": [
+        "numpy",
+        "pandas",
+        "pytest"
+    ],
+    "lark": [
+        "hypothesis",
+        "mock",
+        "pytorch_lightning"
+    ],
+    "sympy": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "astunparse": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "lintrunner": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "GitPython": [
+        "pandas",
+        "mock",
+        "pytorch_lightning"
+    ],
+    "lxml": [
+        "beautifulsoup4",
+        "jinja2",
+        "mock"
+    ],
+    "pytest": [
+        "playwright",
+        "mock",
+        "hypothesis"
+    ],
+    "requests": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "torchdiffeq": [
+        "torch",
+        "mock",
+        "pytorch_lightning"
+    ],
+    "pillow": [
+        "Pillow",
+        "mock",
+        "beautifulsoup4"
+    ],
+    "kornia": [
+        "gradio",
+        "mock",
+        "pytorch_lightning"
+    ],
+    "diskcache": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "tensorflow": [
+        "keras",
+        "numpy",
+        "transformers"
+    ],
+    "facexlib": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "networkx": [
+        "pandas",
+        "tweepy",
+        "matplotlib"
+    ],
+    "statsmodels": [
+        "xgboost",
+        "numpy",
+        "pandas"
+    ],
+    "setuptools": [
+        "twine",
+        "mock",
+        "pytorch_lightning"
+    ],
+    "torch": [
+        "transformers",
+        "numpy",
+        "torchsde"
+    ],
+    "qiskit": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "safetensors": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "playwright": [
+        "pytest",
+        "mock",
+        "pytorch_lightning"
+    ],
+    "optree": [
+        "mock",
+        "pytorch_lightning",
+        "numpy"
+    ],
+    "keras": [
+        "tensorflow",
+        "transformers",
+        "numpy"
+    ],
+    "imageio": [
+        "Pillow",
+        "pillow",
+        "mock"
+    ],
+    "gradio": [
+        "transformers",
+        "kornia",
+        "mock"
+    ]
+}
