@@ -76,8 +76,8 @@ python3 src/decompyl.py
 5. **Decompile bytecode:**
    ```sh
    docker build -t my-python-app .
-   docker run -it my-python-app
-   python3 src/decompyl.py
+   docker run -it -v $(pwd):/app my-python-app
+   python3 mnt/data/src/decompyl.py
    ```
 
 ## Conclusion
